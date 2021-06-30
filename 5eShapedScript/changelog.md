@@ -1,3 +1,8 @@
+# 13.9.3
+
+### Bug fixes
+- Required sheet version error should be solved.
+
 # 13.9.2
 
 ### Bug fixes
