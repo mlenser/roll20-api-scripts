@@ -1,3 +1,8 @@
+# 13.9.4
+
+### Bug fixes
+- Fixed logger error
+
 # 13.9.3
 
 ### Bug fixes
